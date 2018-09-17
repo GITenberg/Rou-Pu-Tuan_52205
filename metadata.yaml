@@ -1,0 +1,30 @@
+_repo: Rou-Pu-Tuan_52205
+_version: 0.0.1
+alternative_title: Rou Pu Tuan
+creator:
+  author:
+    agent_name: Li, Yu
+    aliases:
+    - 李渔
+    - 李漁
+    birthdate: 1611
+    gutenberg_agent_id: '28330'
+    url: http://www.gutenberg.org/2009/agents/28330
+    wikipedia: http://en.wikipedia.org/wiki/Li_Yu_%28author%29
+description: ''
+gutenberg_issued: '2016-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52205'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese fiction'
+- !lcsh 'Erotic stories, Chinese'
+- !lcsh 'Erotic literature, Chinese'
+- GITenberg
+title: 肉蒲團
+url: http://www.gutenberg.org/ebooks/52205
