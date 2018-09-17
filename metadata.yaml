@@ -1,6 +1,9 @@
 _repo: Rou-Pu-Tuan_52205
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Rou Pu Tuan
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Li, Yu
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/28330
     wikipedia: http://en.wikipedia.org/wiki/Li_Yu_%28author%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52205#Rou-Pu-Tuan
 gutenberg_issued: '2016-06-01'
 gutenberg_type: Text
 identifiers:
